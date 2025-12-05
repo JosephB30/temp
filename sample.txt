@@ -1,1 +1,2 @@
 Thissatest
+This is another line to sample.txt 
